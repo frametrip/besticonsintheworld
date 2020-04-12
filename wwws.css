@@ -6,7 +6,7 @@ body  {
 }
 .container {
   height: 100vh;
-  background-color:#030202;
+  background-color:#ff00f2;
   display: flex;
   justify-content: center;
   align-items: center;
